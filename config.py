@@ -8,9 +8,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ── Required ──────────────────────────────────────────────────────────────────
-API_ID          = int(os.environ["API_ID"])
-API_HASH        = os.environ["API_HASH"]
-BOT_TOKEN       = os.environ["BOT_TOKEN"]
+API_ID          = int(os.environ["30804214"])
+API_HASH        = os.environ["868c14bb613d143a45d1eaa5a17d8e1b"]
+BOT_TOKEN       = os.environ["8943796108:AAHjOAVZ-ZfZ7bA0ixksEzmlsT16UhTZNYg"]
 STRING_SESSION  = os.environ["STRING_SESSION"]
 MONGO_DB_URL    = os.environ["MONGO_DB_URL"]
 OWNER_ID        = int(os.environ["7983098956"])
