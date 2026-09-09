@@ -16,13 +16,13 @@ MONGO_DB_URL    = os.environ["mongodb+srv://la045514_db_user:Zm40Moe01trMFw71@cl
 OWNER_ID        = int(os.environ["7983098956"])
 
 # ── Optional ──────────────────────────────────────────────────────────────────
-BOT_NAME         = os.getenv("BOT_NAME", "Shizu Music")
+BOT_NAME         = os.getenv("BOT_NAME", "yorxmusic")
 BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/yormusicxbot")
 UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/VIP_PFP_SP")
 SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/zpaveldurov")
 LOGGER_ID        = int(os.getenv("LOGGER_ID", "https://t.me/Yor_login"))
 PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/ddzvc0.jpg",)
-SESSION_NAME     = os.getenv("SESSION_NAME", "ShizuMusic")
+SESSION_NAME     = os.getenv("SESSION_NAME", "yorxmusic")
 PORT             = int(os.getenv("PORT", 10000))
 
 # ── NSFW Moderation API ─────────────────────────────────────────────────────
