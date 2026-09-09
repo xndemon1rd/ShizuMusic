@@ -21,7 +21,7 @@ BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/yormusicxbot")
 UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/VIP_PFP_SP")
 SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/zpaveldurov")
 LOGGER_ID        = int(os.getenv("LOGGER_ID", "https://t.me/Yor_login"))
-PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/ddzvc0.jpg",)
+PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/sfqdhn.jpg",)
 SESSION_NAME     = os.getenv("SESSION_NAME", "yorxmusic")
 PORT             = int(os.getenv("PORT", 10000))
 
