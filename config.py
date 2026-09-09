@@ -12,15 +12,15 @@ API_ID          = int(os.environ["30804214"])
 API_HASH        = os.environ["868c14bb613d143a45d1eaa5a17d8e1b"]
 BOT_TOKEN       = os.environ["8943796108:AAHjOAVZ-ZfZ7bA0ixksEzmlsT16UhTZNYg"]
 STRING_SESSION  = os.environ["STRING_SESSION"]
-MONGO_DB_URL    = os.environ["MONGO_DB_URL"]
+MONGO_DB_URL    = os.environ["mongodb+srv://la045514_db_user:Zm40Moe01trMFw71@cluster1.0r0xacx.mongodb.net/?appName=Cluster1"]
 OWNER_ID        = int(os.environ["7983098956"])
 
 # ── Optional ──────────────────────────────────────────────────────────────────
 BOT_NAME         = os.getenv("BOT_NAME", "Shizu Music")
 BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/yormusicxbot")
-UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/PBX_UPDATE")
+UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/VIP_PFP_SP")
 SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/zpaveldurov")
-LOGGER_ID        = int(os.getenv("LOGGER_ID", "0"))
+LOGGER_ID        = int(os.getenv("LOGGER_ID", "https://t.me/Yor_login"))
 PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/ddzvc0.jpg",)
 SESSION_NAME     = os.getenv("SESSION_NAME", "ShizuMusic")
 PORT             = int(os.getenv("PORT", 10000))
