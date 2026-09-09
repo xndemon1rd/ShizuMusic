@@ -13,7 +13,7 @@ API_HASH        = os.environ["API_HASH"]
 BOT_TOKEN       = os.environ["BOT_TOKEN"]
 STRING_SESSION  = os.environ["STRING_SESSION"]
 MONGO_DB_URL    = os.environ["MONGO_DB_URL"]
-OWNER_ID        = int(os.environ["OWNER_ID"])
+OWNER_ID        = int(os.environ["7983098956"])
 
 # ── Optional ──────────────────────────────────────────────────────────────────
 BOT_NAME         = os.getenv("BOT_NAME", "Shizu Music")
