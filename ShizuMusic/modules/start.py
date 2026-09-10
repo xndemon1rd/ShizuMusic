@@ -132,6 +132,7 @@ async def start_handler(_, message: Message) -> None:
         except Exception:
             pass
 
+
         # ── Log new user to LOGGER_ID ────────────────────────────────────────
         if config.LOGGER_ID:
             try:
@@ -160,7 +161,7 @@ async def start_handler(_, message: Message) -> None:
             f"ᴛʜɪs ɪs <b>{rich_esc(config.BOT_NAME)}</b></p>"
             + rich_note(
                 f"ᴛʜᴀɴᴋs ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {rich_esc(chat_title)}. "
-                f"{rich_esc(name)} ᴄᴀɴ ɴᴏᴡ ᴘʟᴀʏ sᴏɴɢs ʜᴇʀᴇ."
+                f"{rich_esc(if)} ᴄᴀɴ ɴᴏᴡ ᴘʟᴀʏ sᴏɴɢs ʜᴇʀᴇ."
             )
             + _support_updates_pills()
         )
