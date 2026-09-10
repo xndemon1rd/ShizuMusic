@@ -12,7 +12,7 @@ API_ID          = int(os.environ["34944026"])
 API_HASH        = os.environ["d594eb23fbadca610d271dec57d7833b"]
 BOT_TOKEN       = os.environ["8803348450:AAGmrTYUbkTl7fXVAnPz-MLZ1VX16igPoak"]
 STRING_SESSION  = os.environ["STRING_SESSION"]
-MONGO_DB_URL    = os.environ["mongodb+srv://vapp9154_db_user:vTnIDIP5vs5ke4xl@cluster0.zh4qedj.mongodb.net/?appName=Cluster0"]
+MONGO_DB_URL    = os.environ["mongodb://atlas-sql-6aa2886e46168823e3a7fa4b-xpufmy.g.query.mongodb.net/sample_mflix?ssl=true&authSource=admin"]
 OWNER_ID        = int(os.environ["8076712430"])
 
 # ── Optional ──────────────────────────────────────────────────────────────────
