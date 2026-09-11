@@ -11,7 +11,7 @@ load_dotenv()
 API_ID          = int(os.environ["34944026"])
 API_HASH        = os.environ["d594eb23fbadca610d271dec57d7833b"]
 BOT_TOKEN       = os.environ["8447677582:AAGT8palOe05BE6GEbfjKsMGgIKx1VmgKqc"]
-STRING_SESSION  = os.environ["STRING_SESSION"]
+STRING_SESSION  = os.environ["1BVtsOMYBu5XZlj0QAwBJnpT8VXKUnN3kUJaFZWWs1mY8kzoaj5_vq-t7IsslJrONiVBQfOPeXd-BygSEsMwtHavK9IFkdZhPeevK8ESFx7jJqWO1_BHK92izYDF29vtnQDOIVLmHDE04oRiutxmj54I89gQaPHMvijIfiN6saT1xCC-cT569aMQTMGSprSVwb6s8AzntTOeQFzvnQFZljTTfY_rGv_r7KQ2AS9qRDgAj6wyvvoM4aZJneSVGCAPfrZJj0P2XBynqGLw2xYAJyFKEsI6M22mc3zvFuXIr-oRJutwPbWXgtN-_1geqK6jKGPdQ8E-urVJqzLatJ_NEeNmw1lq7yek="]
 MONGO_DB_URL    = os.environ["mongodb+srv://<db_username>:3f0RgGQeqqbpL7ao@cluster0.q2ryvjs.mongodb.net/?appName=Cluster0"]
 OWNER_ID        = int(os.environ["8076712430"])
 
