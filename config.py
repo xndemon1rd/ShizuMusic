@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ── Required ──────────────────────────────────────────────────────────────────
-API_ID          = int(os.environ["34944026"])
-API_HASH        = os.environ["d594eb23fbadca610d271dec57d7833b"]
+API_ID          = int(os.environ["31872286"])
+API_HASH        = os.environ["231e53b471babfcb41971e7d22275f68"]
 BOT_TOKEN       = os.environ["8447677582:AAGT8palOe05BE6GEbfjKsMGgIKx1VmgKqc"]
 STRING_SESSION  = os.environ["STRING_SESSION"]
 MONGO_DB_URL    = os.environ["mongodb+srv://<db_username>:3f0RgGQeqqbpL7ao@cluster0.q2ryvjs.mongodb.net/?appName=Cluster0"]
