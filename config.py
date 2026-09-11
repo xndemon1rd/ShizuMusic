@@ -10,19 +10,19 @@ load_dotenv()
 # ── Required ──────────────────────────────────────────────────────────────────
 API_ID          = int(os.environ["34944026"])
 API_HASH        = os.environ["d594eb23fbadca610d271dec57d7833b"]
-BOT_TOKEN       = os.environ["8803348450:AAGmrTYUbkTl7fXVAnPz-MLZ1VX16igPoak"]
+BOT_TOKEN       = os.environ["8447677582:AAGT8palOe05BE6GEbfjKsMGgIKx1VmgKqc"]
 STRING_SESSION  = os.environ["STRING_SESSION"]
 MONGO_DB_URL    = os.environ["mongodb+srv://<db_username>:3f0RgGQeqqbpL7ao@cluster0.q2ryvjs.mongodb.net/?appName=Cluster0"]
 OWNER_ID        = int(os.environ["8076712430"])
 
 # ── Optional ──────────────────────────────────────────────────────────────────
 BOT_NAME         = os.getenv("BOT_NAME", "yorxmusic")
-BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/xnknoxbot")
+BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/trebelvibebot")
 UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/VIP_PFP_SP")
 SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/zpaveldurov")
-LOGGER_ID        = int(os.getenv("LOGGER_ID", "https://t.me/Yor_login"))
+LOGGER_ID        = int(os.getenv("LOGGER_ID", "https://t.me/zpaveldurov"))
 PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/sfqdhn.jpg",)
-SESSION_NAME     = os.getenv("SESSION_NAME", "yorxmusic")
+SESSION_NAME     = os.getenv("SESSION_NAME", "trebelmusic")
 PORT             = int(os.getenv("PORT", 10000))
 
 # ── NSFW Moderation API ─────────────────────────────────────────────────────
