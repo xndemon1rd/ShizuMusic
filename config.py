@@ -18,7 +18,7 @@ OWNER_ID        = int(os.environ["8076712430"])
 # ── Optional ──────────────────────────────────────────────────────────────────
 BOT_NAME         = os.getenv("BOT_NAME", "yorxmusic")
 BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/trebelvibebot")
-UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/VIP_PFP_SP")
+UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me//zxknox")
 SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/zpaveldurov")
 LOGGER_ID        = int(os.getenv("LOGGER_ID", "https://t.me/zpaveldurov"))
 PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/sfqdhn.jpg",)
